@@ -92,7 +92,7 @@ body {
     height: 70px;
     justify-content: space-evenly;
     padding: 10px 0;
-    box-shadow: 5px 5px 5px silver;
+    box-shadow: 5px 5px 5px gray;
     margin: 10px;
     font: inherit;
 }
